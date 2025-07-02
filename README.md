@@ -81,3 +81,19 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=JRproyects&locale=es&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
 </div>
+###
+
+<h3 align="left">🚀 Mi Roadmap de Aprendizaje</h3>
+
+<p align="left">
+  <ul>
+    <li><strong>Fase 1 (2025):</strong> Consolidar bases eléctricas, automatización, instalaciones, proyectos con Arduino/ESP32, y profundizar redes con MikroTik.</li>
+    <li><strong>Fase 2 (2025-2026):</strong> Integrar hardware con desarrollo web, con Node.js o Python, MongoDB/Firebase, y dashboards en tiempo real con React.js o Vue.js.</li>
+    <li><strong>Fase 3 (2026-2027):</strong> Subir soluciones IoT a la nube con Docker, automatizar flujos DevOps con GitHub Actions, y aprender servicios cloud (AWS, Azure, GCP).</li>
+    <li><strong>Fase 4 (2027+):</strong> Especializarme en IoT + Smart Home, Cloud DevOps o Ciberseguridad IoT, con certificaciones complementarias (AWS Practitioner, LPIC-1, SCRUM).</li>
+  </ul>
+</p>
+
+<p align="left">
+  Estoy comprometido con la mejora continua y la formación constante para aportar soluciones tecnológicas eficientes, escalables y seguras.
+</p>
