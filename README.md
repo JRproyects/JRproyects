@@ -83,17 +83,28 @@
 </div>
 ###
 
-<h3 align="left">🚀 Mi Roadmap de Aprendizaje</h3>
+###
 
-<p align="left">
-  <ul>
-    <li><strong>Fase 1 (2025):</strong> Consolidar bases eléctricas, automatización, instalaciones, proyectos con Arduino/ESP32, y profundizar redes con MikroTik.</li>
-    <li><strong>Fase 2 (2025-2026):</strong> Integrar hardware con desarrollo web, con Node.js o Python, MongoDB/Firebase, y dashboards en tiempo real con React.js o Vue.js.</li>
-    <li><strong>Fase 3 (2026-2027):</strong> Subir soluciones IoT a la nube con Docker, automatizar flujos DevOps con GitHub Actions, y aprender servicios cloud (AWS, Azure, GCP).</li>
-    <li><strong>Fase 4 (2027+):</strong> Especializarme en IoT + Smart Home, Cloud DevOps o Ciberseguridad IoT, con certificaciones complementarias (AWS Practitioner, LPIC-1, SCRUM).</li>
-  </ul>
-</p>
+<h3 align="left">🌟 Proyectos Destacados</h3>
 
-<p align="left">
-  Estoy comprometido con la mejora continua y la formación constante para aportar soluciones tecnológicas eficientes, escalables y seguras.
-</p>
+<ul>
+  <li>
+    <strong>Diseño de Red Corporativa con MikroTik</strong><br>
+    Implementación de red profesional para la empresa X S.A., garantizando comunicación eficiente, segmentación de tráfico y seguridad. Tecnologías: MikroTik, VLANs, routing dinámico.<br>
+    <a href="https://github.com/JRproyects/Mikrotik-Corporate-Network" target="_blank">🔗 Ver repositorio</a>
+  </li>
+  <br>
+  <li>
+    <strong>Integración de WhatsApp Business API con Node.js</strong><br>
+    Automatización de mensajes y gestión de eventos en tiempo real mediante Webhooks y Meta for Developers, aplicando arquitectura backend escalable.<br>
+    Tecnologías: Node.js, Express, Webhooks, API REST.<br>
+    <a href="https://github.com/JRproyects/Whatsapp-Business-Integration" target="_blank">🔗 Ver repositorio</a>
+  </li>
+  <br>
+  <li>
+    <strong>Portafolio Web Personal</strong><br>
+    Desarrollo y despliegue de mi propio portafolio web como carta de presentación profesional, con proyectos, experiencia y contacto.<br>
+    Tecnologías: HTML, CSS, JavaScript.<br>
+    <a href="https://jrproyects.github.io/Portafolio/" target="_blank">🔗 Ver online</a>
+  </li>
+</ul>
